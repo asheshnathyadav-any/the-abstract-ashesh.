@@ -8,8 +8,7 @@ This project marks **Phase 1** of my frontend development roadmap, focusing enti
 
 ## 🚀 Live Demo
 
-Once you configure GitHub Pages, add your live link here:
-👉 [View Live Portfolio](https://asheshnathyadav-any.github.io/the-abstract-ashesh/) *(Replace with your actual GitHub Pages URL)*
+👉 https://asheshnathyadav-any.github.io/the-abstract-ashesh./
 
 ---
 
